@@ -14,7 +14,7 @@ pipeline{
         }
         stage('3-welocmepage'){
             steps{
-                echo 'welocme everyone'
+                echo 'welocme to Etech'
             }
 
         }    
